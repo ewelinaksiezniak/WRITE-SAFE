@@ -19,7 +19,9 @@ WRITE-SAFE makes advanced authorship analysis **accessible and understandable fo
 
 # **Early-stage Prototype**
 
-The `main` branch and `main.py` file contain the implementation of a **very early research prototype** of WRITE-SAFE, built using:
+The `main` branch and the `main.py` file contain the early implementation of WRITE-SAFE. **Pretrained models and text datasets are intentionally not included in this repository—prototype behavior was tested locally, fully offline, on localhost.**
+
+The `main` branch and `main.py` file contain the implementation of a **very early research prototype logic** of WRITE-SAFE, built using:
 
 - **Dash** for UI  
 - **Plotly** for data visualization  
