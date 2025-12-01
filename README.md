@@ -6,7 +6,7 @@ Instead of rewriting text automatically, the app **exposes authorship signals** 
 
 ---
 
-## 🧠 **Educational first, privacy always**
+## **Educational first, privacy always**
 
 - Learn how stylometry works in practice using your own real texts  
 - Explore language and style patterns that can reveal authorship online  
@@ -17,7 +17,7 @@ WRITE-SAFE makes advanced authorship analysis **accessible and understandable fo
 
 ---
 
-# 🛠 **Early-stage Prototype**
+# **Early-stage Prototype**
 
 The `main` branch and `main.py` file contain the implementation of a **very early research prototype** of WRITE-SAFE, built using:
 
